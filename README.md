@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Carol!
 
-🚀 **Software Engineer in training at 42 - São Paulo** | **Data Science Enthusiast** | **Creative at heart**  
+🚀 **Software Engineer in training at 42 - São Paulo** | **Software Development Enthusiast** | **Creative at heart**  
 🎭 Passionate about art, storytelling, and systems that drive the world  
 💡 Exploring code as a way to turn ideas into reality  
 📚 Economist by degree, programmer by choice  
